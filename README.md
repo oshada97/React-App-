@@ -1,2 +1,2 @@
 # React-App
-Testing My React Abilities
+For react testings

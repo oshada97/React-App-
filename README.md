@@ -2,6 +2,7 @@
 ## For react testings
 Install Node js
 Install  npm
+
 ======#######====== 
 1.	npm install -g create-react-app
 2.	npx create-react-app my-app

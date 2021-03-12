@@ -1,5 +1,7 @@
 # React-App
+
 ## For react testings
+type node -v
 Install Node js
 Install  npm
 
